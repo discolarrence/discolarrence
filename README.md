@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Laura Rountree
 - 🌱 I’m currently learning ...
   - Python
+  - SQL
   - C
 - 📫 How to reach me ...
   - [Linkedin](https://www.linkedin.com/in/laurarountree/)
