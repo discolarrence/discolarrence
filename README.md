@@ -5,8 +5,9 @@
   - [Technical Writing Sample](https://docs.google.com/document/d/1C8IOSNuqLh_roVLbmJCk8623DgGnyVA2VVnYX830s1c/edit?usp=sharing)
 - 👩‍🎓 Domain knowledge ...
   - Culinary / hospitality (restaurants, catering, institutional)
-  - Education (ESL, vocational)
-  - Social sciences
+  - Education (ESL, literacy, vocational)
+  - Social services (food justice, homeless outreach, refugee services)
+  - Interdisciplinary social sciences
 - 📫 How to reach me ...
   - [Linkedin](https://www.linkedin.com/in/laurarountree/)
   - [email](mailto:laura.rountree@gmail.com?subject=[GitHub]%20Laura%20Rountree)
