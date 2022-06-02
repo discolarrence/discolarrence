@@ -6,8 +6,8 @@
 - 👩‍🎓 Domain knowledge ...
   - Culinary / hospitality (restaurants, catering, institutional)
   - Education (ESL, literacy, vocational)
-  - Social services (food justice, homeless outreach, refugee services)
-  - Interdisciplinary social sciences
+  - Social services (food and housing justice, community development, refugee services)
+  - Social sciences research
 - 📫 How to reach me ...
   - [Linkedin](https://www.linkedin.com/in/laurarountree/)
   - [email](mailto:laura.rountree@gmail.com?subject=[GitHub]%20Laura%20Rountree)
